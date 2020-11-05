@@ -11,8 +11,8 @@ public class Test1 {
 		driver.get("http://facebook.com");
 		driver.findElement(By.id("email")).sendKeys("my email");
 		driver.findElement(By.name("pass")).sendKeys("123456789");
-		driver.findElement(By.name("login")).click();
-		
+		//driver.findElement(By.name("login")).click();
+		driver.findElement(By.xpath("//*[@id=\"u_0_b\"]")).click();
 		
 		
 		
