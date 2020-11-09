@@ -14,7 +14,7 @@ public class Test1 {
 		//driver.findElement(By.name("login")).click();
 		driver.findElement(By.xpath("//*[@id=\'u_0_b\']")).click();
 		driver.findElement(By.cssSelector("#email")).sendKeys("email2");
-		driver.findElement(By.cssSelector("#pass")).sendKeys("123456789");
+		driver.findElement(By.cssSelector("#pass")).sendKeys("password2");
 		driver.findElement(By.cssSelector("#loginbutton")).click();
 		
 		
