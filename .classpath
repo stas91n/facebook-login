@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="C:/Users/Stas/Desktop/SALINIUM/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Stas/Desktop/SALINIUM/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Stas/Desktop/SALINIUM/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stas/Desktop/SALINIUM/testng-7.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
